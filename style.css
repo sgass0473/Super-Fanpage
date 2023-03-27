@@ -1,0 +1,36 @@
+@charset "UTF-8";
+h1 {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: #395E9D;
+}
+p {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: #5FA9D2;
+}
+table {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #5FA9D2;
+}
+body {
+    background-color: #F3FBFE;
+}
+th   {
+    color: #5B7EAC;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-size: x-large;
+}
+a {
+    color: #7EAD7C;
+    text-decoration: underline;
+}
+img {
+    border: 5px solid #C8E1EF;
+    border-radius: 20px;
+}
+th    , td{
+    border-width: 5px;
+    border-color: #4873AE;
+    background-color: #5A5B65;
+    border-collapse: collapse;
+    border-spacing: 0px 0px;
+}
